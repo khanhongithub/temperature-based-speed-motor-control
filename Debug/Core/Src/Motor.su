@@ -1,0 +1,9 @@
+../Core/Src/Motor.c:29:6:Motor_Init_PWM	24	static
+../Core/Src/Motor.c:45:6:Motor_Init_Encoder	24	static
+../Core/Src/Motor.c:56:6:Motor_Set_Duty	24	static
+../Core/Src/Motor.c:73:6:Motor_Set_Frequency	24	static
+../Core/Src/Motor.c:88:10:Motor_Get_Speed	16	static
+../Core/Src/Motor.c:103:6:HAL_SYSTICK_Callback	8	static
+../Core/Src/Motor.c:118:10:caculate_speed	16	static
+../Core/Src/Motor.c:145:9:Temp_to_Duty	16	static
+../Core/Src/Motor.c:149:9:Manual_to_Duty	24	static
